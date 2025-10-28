@@ -1,7 +1,7 @@
 //  var imgEL = document.getElementById('apple');
 //  var imgContainer = document.getElementById('i-section');
 //  function changeBG(){
-//     imgEL.src = "images/mango.jpeg";
+//     imgEL.src = "mango.jpeg";
 //  }
 
 //Assignment # 2
@@ -21,4 +21,5 @@ var hiddenArea = document.getElementById('hidden');
 
 function showText() {
     hiddenArea.style.visibility = 'visible';
+
 }
